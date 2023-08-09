@@ -92,4 +92,4 @@ plt.xlabel("Age Group")
 plt.ylabel("Number of Suicides")
 plt.show()
 
->>>>>>> Stashed changes
+print('NUmber')
